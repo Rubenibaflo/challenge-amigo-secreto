@@ -25,7 +25,7 @@ Este proyecto es una aplicación interactiva que permite a los usuarios ingresar
    ```
 2. **Accede a la carpeta del proyecto**
    ```bash
-   cd amigo-secreto
+   cd challenge-amigo-secreto
    ```
 3. **Abre el archivo **``** en tu navegador**
 
